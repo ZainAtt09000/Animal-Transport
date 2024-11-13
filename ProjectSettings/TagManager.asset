@@ -9,7 +9,8 @@ TagManager:
   - PickUp
   - RearWheel
   - Car
-  - ParkingArea
+  - LastParking
+  - MidParking
   layers:
   - Default
   - TransparentFX

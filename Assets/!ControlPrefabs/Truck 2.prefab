@@ -358,7 +358,7 @@ GameObject:
   - component: {fileID: 7933717009017206544}
   - component: {fileID: 4453169633389153722}
   - component: {fileID: 3845735331200430884}
-  - component: {fileID: 2880289220286760145}
+  - component: {fileID: 2115552250759098334}
   m_Layer: 11
   m_Name: Truck 2
   m_TagString: Untagged
@@ -534,7 +534,7 @@ MonoBehaviour:
   engineInertia: 0.1
   useRevLimiter: 1
   useExhaustFlame: 1
-  RunEngineAtAwake: 1
+  RunEngineAtAwake: 0
   engineRunning: 0
   useSteeringLimiter: 1
   useCounterSteering: 1
@@ -692,7 +692,7 @@ MonoBehaviour:
   useNOS: 0
   useTurbo: 0
   attachedTrailer: {fileID: 0}
---- !u!114 &2880289220286760145
+--- !u!114 &2115552250759098334
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -701,11 +701,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 2952803905908054195}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ca3530abd898a474884d7e1a999d45ad, type: 3}
+  m_Script: {fileID: 11500000, guid: 1d430c938fdc8584eb45f80f5cb1e072, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvas: {fileID: 0}
-  disableDuration: 10
+  rccCanvas: {fileID: 0}
+  rccCamera: {fileID: 0}
+  carRb: {fileID: 4453169633389153722}
+  RCC: {fileID: 3845735331200430884}
+  currentLevel: 0
+  cutsceneStarted: 0
 --- !u!1 &3083911063625241114
 GameObject:
   m_ObjectHideFlags: 0

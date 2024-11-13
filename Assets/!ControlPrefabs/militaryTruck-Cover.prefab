@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1824053580750834923}
   - component: {fileID: 7021006565897823156}
   - component: {fileID: 5581453875992943211}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: ZIL130_NoCover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -124,7 +124,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1095642137459634093}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: COM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -294,7 +294,7 @@ GameObject:
   - component: {fileID: 8768892194188979495}
   - component: {fileID: 3817714449403370918}
   - component: {fileID: 8734079180974574057}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: Truck_Wheel_RR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -545,7 +545,7 @@ GameObject:
   - component: {fileID: 316026903164030355}
   - component: {fileID: 2662093511916890378}
   - component: {fileID: 5357962271966769409}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Zil_Door_FL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -629,7 +629,7 @@ GameObject:
   - component: {fileID: 2753450832027886327}
   - component: {fileID: 2777553661961529764}
   - component: {fileID: 8262755512063537636}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: Truck_Wheel_FL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -743,7 +743,7 @@ GameObject:
   - component: {fileID: 2640231566291958427}
   - component: {fileID: 7721282909228777718}
   - component: {fileID: 3250501309177819298}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Truck_Wheel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -824,7 +824,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3931594707897343413}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Wheel Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -861,7 +861,7 @@ GameObject:
   - component: {fileID: 3294556569308294481}
   - component: {fileID: 3802132721068524681}
   - component: {fileID: 6706399564377027145}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: militaryTruck-Cover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1206,7 +1206,7 @@ GameObject:
   - component: {fileID: 5618907883458326248}
   - component: {fileID: 4252108958682861353}
   - component: {fileID: 2530622276156613288}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Truck_Wheel_FL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1289,7 +1289,7 @@ GameObject:
   - component: {fileID: 7457820461396521128}
   - component: {fileID: 1624870441251639586}
   - component: {fileID: 3148976127204942964}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: Truck_Wheel_FR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1540,7 +1540,7 @@ GameObject:
   - component: {fileID: 1666925018057303873}
   - component: {fileID: 2241787847700302535}
   - component: {fileID: 326783766891932069}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Truck_Wheel_RR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1623,7 +1623,7 @@ GameObject:
   - component: {fileID: 4712672081976686828}
   - component: {fileID: 2826780033525057558}
   - component: {fileID: 6579300864204014938}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Truck_Wheel_RL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1707,7 +1707,7 @@ GameObject:
   - component: {fileID: 2788027038431633364}
   - component: {fileID: 793742103276480519}
   - component: {fileID: 7201741733346853414}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Truck_Zil130_TrailerDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1811,7 +1811,7 @@ GameObject:
   - component: {fileID: 8685424377589918557}
   - component: {fileID: 7927418414801151125}
   - component: {fileID: 3905049210068277513}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Zil_Door_FR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1893,7 +1893,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3549136202563519970}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Lights
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2067,7 +2067,7 @@ GameObject:
   - component: {fileID: 7395449706740580078}
   - component: {fileID: 8436791899268016105}
   - component: {fileID: 3339962489490906011}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Truck_Covers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2150,7 +2150,7 @@ GameObject:
   - component: {fileID: 5842676666901488131}
   - component: {fileID: 1080116927141558151}
   - component: {fileID: 2710570662999273314}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Truck_Wheel_FR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2231,7 +2231,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1881949508763432663}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Truck_Wheel_root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2263,7 +2263,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3549927319731916519}
-  m_Layer: 12
+  m_Layer: 11
   m_Name: Steering
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2297,7 +2297,7 @@ GameObject:
   - component: {fileID: 5714996137295834348}
   - component: {fileID: 168867977319692520}
   - component: {fileID: 7538057145986565882}
-  m_Layer: 13
+  m_Layer: 11
   m_Name: Truck_Wheel_RL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
