@@ -47,13 +47,22 @@ public class LevelManagerScript : MonoBehaviour
 
 
     public Level[] farmModeLevels;
+    public Level[] parkingModeLevels;
+
+    public bool farmMode = false;
+    public bool parkMode = false;
+
     public static LevelManagerScript instance;
     [HideInInspector]public string LevelNo = "LevelNumber";
+    [HideInInspector]public string Mode = "CurrentMode";
+
     int levelNo = 0;
+
     private void Awake()
     {
         instance = this;
         levelNo = PlayerPrefs.GetInt(LevelNo, 0);
+
 
     }
 
