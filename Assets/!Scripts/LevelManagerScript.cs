@@ -67,7 +67,7 @@ public class LevelManagerScript : MonoBehaviour
     {
         instance = this;
         // Retrieve the current mode from PlayerPrefs
-        string currentMode = PlayerPrefs.GetString(Mode, "Farm");
+        string currentMode = PlayerPrefs.GetString(Mode, "Park");
 
         // Initialize activeModeLevels based on the saved mode
         if (currentMode == "Farm")
