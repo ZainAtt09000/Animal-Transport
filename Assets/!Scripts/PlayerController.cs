@@ -14,14 +14,6 @@ public class PlayerController : MonoBehaviour
     public static PlayerController instance;
 
 
-    [System.Serializable]
-    public class AnimalsPositions
-    {
-        public Transform[] transforms;
-    }
-
-
-
 
     private void Awake()
     {
