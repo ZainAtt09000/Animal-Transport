@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362488919349",
+    "project_id": "animal-transport-cdf37",
+    "storage_bucket": "animal-transport-cdf37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362488919349:android:a3674ba28c29d66645c87c",
+        "android_client_info": {
+          "package_name": "com.epicarcadecreations.animal.transport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIAC7W_4qPfBRMly9L5H0sfoYagGMJKRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
